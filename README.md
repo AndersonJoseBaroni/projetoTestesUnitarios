@@ -1,4 +1,3 @@
-<h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Nesta live coding, vamos aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. 
 Vamos desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, 
@@ -18,6 +17,7 @@ Durante a sessão, serão abordados os seguintes tópicos:
 Após baixar o projeto executar a classe Application.java e acessar a url abaixo ou o swagger:
 
 http://localhost:8080/swagger-ui.html
+
 http://localhost:8080/api/v1/beers
 
 
